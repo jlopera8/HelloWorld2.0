@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A78110DF595385F0E930A5E349013C6EEC912C30",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AF4DE2822898045AC5056B4A594B79316D63E3D1" : 9223372036854775807,
+    "A78110DF595385F0E930A5E349013C6EEC912C30" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "872DDCEF-1143-4A02-8CE8-A12CA477B687",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AF4DE2822898045AC5056B4A594B79316D63E3D1" : "..",
+    "A78110DF595385F0E930A5E349013C6EEC912C30" : "HelloWorld2.0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HelloWorld2.0",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HelloWorld2.0.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jlopera8\/HelloWorld2.0.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A78110DF595385F0E930A5E349013C6EEC912C30"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jlopera8\/Curso-iOS-10.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AF4DE2822898045AC5056B4A594B79316D63E3D1"
+    }
+  ]
+}
